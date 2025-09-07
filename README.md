@@ -1,4 +1,4 @@
-# Week-1
+# Carbon Dioxide Emissions prediction
 Carbon Dioxide Emissions Prediction
 PROJECT TITLE: Carbon Dioxide Emmisions Prediction Rate
 
